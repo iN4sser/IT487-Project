@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">الحاسبة الشاملة</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">الحاسبة الشاملة</string>
+    <string name="nav_header_subtitle">IT-487</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_vat">حاسبة الضريبة</string>
+    <string name="menu_hrsd">حاسبة نظام العمل</string>
+    <string name="menu_ms">حاسبة الضمان الاجتماعي</string>
+    <string name="menu_ca">حاسبة حساب المواطن</string>
+    <string name="menu_zatca">حاسبة الرسوم الجمركية</string>
+</resources>
